@@ -7,10 +7,12 @@
         android:id="@+id/idPCAX"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Ma may tinh"/>
+        android:text="Ma may tinh"
+        android:textSize="20dp"/>
     <TextView
         android:id="@+id/namePCAX"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:text="Ten may tinh"/>
+        android:text="Ten may tinh"
+        android:textSize="20dp"/>
 </LinearLayout>
